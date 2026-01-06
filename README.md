@@ -1,3 +1,1 @@
 # Nexa-BigData
-
-NEW PROJECT
